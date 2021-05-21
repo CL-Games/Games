@@ -1,0 +1,14 @@
+{
+"companyName": "CuteLiu Development",
+"productName": "CuteLiu Development & Games",
+"dataUrl": "Welcome Screen CL.data.unityweb",
+"wasmCodeUrl": "Welcome Screen CL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Welcome Screen CL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Welcome Screen CL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
